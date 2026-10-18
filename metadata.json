@@ -1,0 +1,6 @@
+{
+  "name": "ScriptGen Asesmen Sumatif - Google Apps Script Suite",
+  "description": "Aplikasi lengkap otomasi Asesmen Sumatif Kurikulum Merdeka & K13 dengan Google Apps Script: Generator Google Form Kuis, Pengolahan Nilai Otomatis, Analisis Butir Soal (Daya Beda & Kesukaran), dan Cetak Rapor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
